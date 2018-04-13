@@ -1,6 +1,6 @@
 <?php
 
-require("../phpMQTT.php");
+use phpMQTT\phpMQTT;
 
 
 $server = "mqtt.example.com";     // change if necessary
